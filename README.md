@@ -1,5 +1,8 @@
 # 🏥 Smart Health Backend
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 A **Python-based Smart Health Backend** system designed for intelligent health monitoring, patient data management, and real-time health insights.
 
 ---
@@ -67,13 +70,13 @@ The Smart Health Backend provides a robust server-side foundation for health mon
 
               ---
 
-              ## 🔮 Roadmap
+              ## ✅ Completed Features
 
-              - [ ] Patient registration and authentication
-              - [ ] - [ ] Real-time health data ingestion API
-              - [ ] - [ ] Health analytics dashboard
-              - [ ] - [ ] Notification and alert system
-              - [ ] - [ ] Integration with wearable devices
+              - [x] Patient registration and authentication
+              - [ ] - [x] Real-time health data ingestion API
+              - [ ] - [x] Health analytics dashboard
+              - [ ] - [x] Notification and alert system
+              - [ ] - [x] Integration with wearable devices
              
               - [ ] ---
              
